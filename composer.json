@@ -1,5 +1,5 @@
 {
-    "name": "rappasoft/laravel-livewire-tables",
+    "name": "karlvalentin/laravel-livewire-tables",
     "description": "A dynamic table component for Laravel Livewire",
     "keywords": [
         "rappasoft",
@@ -15,6 +15,11 @@
         {
             "name": "Anthony Rappa",
             "email": "rappa819@gmail.com",
+            "role": "Developer"
+        },
+        {
+            "name": "Karl Valentin",
+            "email": "karl.valentin@kvis.de",
             "role": "Developer"
         }
     ],
